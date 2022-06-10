@@ -1,2 +1,17 @@
 /* styles.css */
+body {
+    background-color: moccasin;
+}
 
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+}
